@@ -1,3 +1,6 @@
+//
+//   百度某一面试题
+
 #include <bits/stdc++.h>
 using namespace std;
 
