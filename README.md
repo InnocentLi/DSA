@@ -1,2 +1,2 @@
 # Algorithm-and-DataStructure
-## leetcode or other onlineOJ
+## JS实现的算法
